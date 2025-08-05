@@ -1,0 +1,19 @@
+name: SkyRace
+version: '${project.version}'
+main: me.pirotkiller.skyrace.SkyRace
+api-version: 1.12
+authors: [ PirotKiller ]
+description: SkyRace
+commands:
+  skyjoin:
+    description: Join SkyRace
+  skysetup:
+    description: Setup SkyRace
+    permission: skyrace.admin
+  skyleave:
+    description: Leave SkyRace
+  skyend:
+    description: End Game
+    permission: skyrace.admin
+
+

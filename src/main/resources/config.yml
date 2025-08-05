@@ -1,0 +1,6 @@
+# Your map folder name
+gameworld: "world"
+# Maximum Player required to start game (Not be equal to 0 or 1)
+player-limit: 4
+# Minimum Player required to start game (Not be equal to 0 or 1)
+min-players: 2
